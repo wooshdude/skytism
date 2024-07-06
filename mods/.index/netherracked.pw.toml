@@ -1,0 +1,13 @@
+filename = 'netherracked-1.0.2.jar'
+name = 'Netherracked'
+side = 'server'
+
+[download]
+hash = 'b15cbadc8cb813557e8f91e1ccf9b3dbfa44910397231dee950ef1f8211ad8db9bf6b1a1ca80e43c7a979e9e65966926ca34133653471d5e2a6f080ceb332b83'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vNFbVrF1/versions/NfwFfYck/netherracked-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'vNFbVrF1'
+version = 'NfwFfYck'

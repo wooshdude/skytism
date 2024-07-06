@@ -1,0 +1,13 @@
+filename = 'BeansBackpacks-forge-1.20.1-2.0.1.jar'
+name = 'Beans Backpacks'
+side = 'both'
+
+[download]
+hash = '8a5c1292cb67f24b04b7314ef0007c71dcfdb5cb5a602ae7829144b6c40b951c10149acdbaad8ad86e7c5c37e0e6ed291548667f45a383b074e304166d6931e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kYt0MSgT/versions/L1j9oLDK/BeansBackpacks-forge-1.20.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'kYt0MSgT'
+version = 'L1j9oLDK'

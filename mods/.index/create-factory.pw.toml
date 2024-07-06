@@ -1,0 +1,13 @@
+filename = 'create_factory-0.4b-1.20.1.jar'
+name = 'Create: Factory'
+side = 'both'
+
+[download]
+hash = 'e016e65391ada1f7c07294b9ffbe6785d4ee17acc6525a775280bc588f3c1567afb4d983c6eade0e34d9600ab81ef4bfc46efdf3e2f1a657b8e4aca4e4cc092e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j6Zt3N7W/versions/aJ3y7MOJ/create_factory-0.4b-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'j6Zt3N7W'
+version = 'aJ3y7MOJ'
